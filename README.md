@@ -1,4 +1,4 @@
-# Pacman Game Search Problems & Spam Classifier
+# Pacman Game Search Problems
 
 This repository contains a core project completed as part of an Artificial Intelligence work:
 
